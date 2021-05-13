@@ -1,9 +1,9 @@
 ## Welcome to Axoxlotl
 
-[Home](https://github.com/mhoughton-iw/scrum-axolotl/edit/gh-pages/index.md)
-[Anatomy](https://github.com/mhoughton-iw/scrum-axolotl/edit/gh-pages/Atonomy.md)
-[Diet Info](https://github.com/mhoughton-iw/scrum-axolotl/edit/gh-pages/dietinfo.md)
-[Contact](https://github.com/mhoughton-iw/scrum-axolotl/edit/gh-pages/contact.md)
+[Home](https://mhoughton-iw.github.io/scrum-axolotl/)
+[Anatomy](https://mhoughton-iw.github.io/scrum-axolotl/Atonomy.md)
+[Diet Info](https://mhoughton-iw.github.io/scrum-axolotl/dietinfo.md)
+[Contact](https://mhoughton-iw.github.io/scrum-axolotl/contact.md)
 
 You can use the [editor on GitHub](https://github.com/mhoughton-iw/scrum-axolotl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
