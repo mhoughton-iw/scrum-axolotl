@@ -1,0 +1,3 @@
+# Animal Habitat
+
+![The axolotl is native only to Lake Xochimilco in the Valley of Mexico, as well as the canals and waterways of Mexico City](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs-prod.si-cdn.com%2FMILVOEpblXKR3Z3aPp-g1KsRS5s%3D%2Ffit-in%2F1072x0%2Fhttps%3A%2F%2Fpublic-media.si-cdn.com%2Ffiler%2Fec%2F38%2Fec380988-0489-45aa-812f-efe2006756ca%2F1920px-ambystoma_mexicanum_at_vancouver_aquarium.jpg&imgrefurl=https%3A%2F%2Fwww.smithsonianmag.com%2Fscience-nature%2Fsaving-paradoxical-axolotl-180967734%2F&tbnid=lEULHdzyQ-cBTM&vet=12ahUKEwinkub-r8bwAhWx8IUKHWedBbwQMygHegUIARDXAQ..i&docid=_HL1ARtozgDdGM&w=1072&h=734&q=axolotl%20habitat&ved=2ahUKEwinkub-r8bwAhWx8IUKHWedBbwQMygHegUIARDXAQ)
