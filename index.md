@@ -1,4 +1,4 @@
-[Axolotl](https://mhoughton-iw.github.io/scrum-axolotl/)  
+[Axolotl](https://mhoughton-iw.github.io/scrum-axolotl/axolotl)  
 
 [BullFrog](https://popplejiw.github.io/scrum-bullfrog/)  
 
