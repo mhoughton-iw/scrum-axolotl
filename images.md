@@ -3,6 +3,7 @@
 [Diet Info](https://mhoughton-iw.github.io/scrum-axolotl/dietinfo)  
 [Images](https://mhoughton-iw.github.io/scrum-axolotl/images)
 [Contact](https://mhoughton-iw.github.io/scrum-axolotl/contact)  
+[Interesting Facts](https://mhoughton-iw.github.io/scrum-axolotl/interesting-facts) 
 ---
 # Image Gallery
 ![A1](https://static.scientificamerican.com/sciam/cache/file/766BFBD4-F8A1-4B7D-8416A370010B5A88_source.jpg)
