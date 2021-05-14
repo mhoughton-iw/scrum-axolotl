@@ -1,13 +1,13 @@
 [Zoo Home](/scrum-axolotl/)  
 
-[Axolotl Home](/scrum-axolotl/axolotl/)  
+[Axolotl Home](/scrum-axolotl/axolotl)  
 
-[Anatomy](/scrum-axolotl/axolotl/atonomy)  
+[Anatomy](/scrum-axolotl/atonomy)  
 
-[Diet Info](/scrum-axolotl/axolotl/dietinfo)  
+[Diet Info](/scrum-axolotl/dietinfo)  
 
-[Images](/scrum-axolotl/axolotl/images)
+[Images](/scrum-axolotl/images)
 
-[Contact](/scrum-axolotl/axolotl/contact)  
+[Contact](/scrum-axolotl/contact)  
 
-[Interesting Facts](/scrum-axolotl/axolotl/interesting-facts) 
+[Interesting Facts](/scrum-axolotl/interesting-facts) 
