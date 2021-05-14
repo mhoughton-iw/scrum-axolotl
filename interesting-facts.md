@@ -7,7 +7,7 @@
 
 # H1 Interesting facts about your favourite animal!
 
-[The mexican walking fish](https://i.redd.it/lfm43trpv5f41.jpg)
+![The mexican walking fish](https://i.redd.it/lfm43trpv5f41.jpg)
 
 - The Axolotl is a neotenic salamander and is considered to be one of the world’s most unusual and unique species of salamanders.
 - The ‘Mexican Walking Fish’ as it is commonly referred to, isn’t actually a fish – it’s an amphibian. Axolotl can be found in Mexico in freshwater lakes and ponds.
@@ -17,7 +17,7 @@ Incredibly, an Axolotl can grow back lost limbs in only a few weeks. It can even
 There appears to be a limit of how many times the Axolotl is capable of regrowing a limb. Scientists discovered that by the fifth time, few limbs could regrow to their previous potential and instead, scar tissue started to form.
 - **The feathery looking branches that extend from either side of its head are its gills.** 
 Axolotl retain their gills, but also have lungs that are fully functional. They will often rise to the surface for a gulp of air.
-[Feathery Branches = gills :open_mouth:](https://factanimal.com/wp-content/uploads/2018/09/mexican-walking-fish-facts.jpg)
+![Feathery Branches = gills](https://factanimal.com/wp-content/uploads/2018/09/mexican-walking-fish-facts.jpg)
 - **This Axolotl does not chew its food, it feeds by using suction.**
 It does this by using rakers that interlock and close the gill slits as food is sucked into the mouth. They are carnivorous, and eat worms, tadpoles, insects and even small fish.
 - **Although critically endangered, the Axolotl has very few predators.**
