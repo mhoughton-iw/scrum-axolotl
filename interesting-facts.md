@@ -1,3 +1,10 @@
+[Home](https://mhoughton-iw.github.io/scrum-axolotl/)  
+[Anatomy](https://mhoughton-iw.github.io/scrum-axolotl/Atonomy)  
+[Diet Info](https://mhoughton-iw.github.io/scrum-axolotl/dietinfo)  
+[Images](https://mhoughton-iw.github.io/scrum-axolotl/images)
+[Contact](https://mhoughton-iw.github.io/scrum-axolotl/contact)  
+[interesting-facts](https://mhoughton-iw.github.io/scrum-axolotl/interesting-facts)
+
 # H1 Interesting facts about your favourite animal!
 
 [The mexican walking fish](https://i.redd.it/lfm43trpv5f41.jpg)
