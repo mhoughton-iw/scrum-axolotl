@@ -1,13 +1,13 @@
-[Zoo Home](/)  
+[Zoo Home](scrum-axolotl/)  
 
-[Axolotl Home](/axolotl/)  
+[Axolotl Home](scrum-axolotl/axolotl/)  
 
-[Anatomy](/axolotl/atonomy)  
+[Anatomy](scrum-axolotl/axolotl/atonomy)  
 
-[Diet Info](/axolotl/dietinfo)  
+[Diet Info](scrum-axolotl/axolotl/dietinfo)  
 
-[Images](/axolotl/images)
+[Images](scrum-axolotl/axolotl/images)
 
-[Contact](/axolotl/contact)  
+[Contact](scrum-axolotl/axolotl/contact)  
 
-[Interesting Facts](/axolotl/interesting-facts) 
+[Interesting Facts](scrum-axolotl/axolotl/interesting-facts) 
